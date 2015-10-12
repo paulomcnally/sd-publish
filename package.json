@@ -1,0 +1,22 @@
+{
+  "name": "sd-publish",
+  "version": "0.0.1",
+  "description": "Upload photos to fans page on Facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulomcnally/sd-publish.git"
+  },
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulomcnally/sd-publish/issues"
+  },
+  "homepage": "https://github.com/paulomcnally/sd-publish#readme",
+  "dependencies": {
+    "request": "^2.65.0"
+  }
+}
